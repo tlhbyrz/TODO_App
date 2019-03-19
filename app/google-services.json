@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "799932619724",
+    "firebase_url": "https://mydoesapp-ec178.firebaseio.com",
+    "project_id": "mydoesapp-ec178",
+    "storage_bucket": "mydoesapp-ec178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799932619724:android:b39ae7fb46d74366",
+        "android_client_info": {
+          "package_name": "com.example.boyraztalha.mydoesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799932619724-v94e9ir6gm7cvlone21qbmhq1gneknip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boyraztalha.mydoesapp",
+            "certificate_hash": "fdd55ac8a406fe5924a3d7b526b31bac05985850"
+          }
+        },
+        {
+          "client_id": "799932619724-j2i60ffm6rtaf8vhof99gq23m5318f0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABiQgn2GcgvKFt3m1aMzkRY0S7M7jKdcA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799932619724-j2i60ffm6rtaf8vhof99gq23m5318f0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
